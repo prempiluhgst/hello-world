@@ -6,3 +6,4 @@ new_readme-edits has new line.
 readme_checkout line 4 different text. Check for merge.
 Onemore try.
 Adding a new line to see if this is picked up.
+Trying edit from github directly.
