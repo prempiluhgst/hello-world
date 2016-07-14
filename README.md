@@ -8,3 +8,4 @@ Onemore try.
 Adding a new line to see if this is picked up.
 Trying edit from github directly.
 Editing from githug to see if git reset --hard HEAD working with repo having different data than working directory.
+Trying a git push with a data commited from direct web.
