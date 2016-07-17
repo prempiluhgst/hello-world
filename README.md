@@ -4,3 +4,4 @@ I am learing how to use git using the github. These are my baby steps in self im
 Also adding a line in between to see how git behaves.
 new_readme-edits has new line.
 Adding a new line to see if this is picked up.
+From branch 2 verifying if push works for multiple branches.
