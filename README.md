@@ -11,4 +11,4 @@ Editing from githug to see if git reset --hard HEAD working with repo having dif
 Trying a git push with a data commited from direct web.
 Checking multi stash. This is stash1.
 Stashing second time.
-
+Testing git remote set-head to see if git push will work as is.
