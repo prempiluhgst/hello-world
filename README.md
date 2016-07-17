@@ -12,3 +12,4 @@ Trying a git push with a data commited from direct web.
 Checking multi stash. This is stash1.
 Stashing second time.
 Testing git remote set-head to see if git push will work as is.
+Changes to test the git ls-remote command.
