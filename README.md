@@ -14,3 +14,4 @@ Stashing second time.
 Testing git remote set-head to see if git push will work as is.
 Changes to test the git ls-remote command.
 Verifying git push will work for multiple branch this is readme-edits branch.
+Verifying git format-patch git send-email and git am for applying patches.
